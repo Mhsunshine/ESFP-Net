@@ -1,0 +1,17 @@
+MODEL:
+  NAME: dualstream
+LOSS:
+  CLA_LOSS: crossentropy
+  CAL: cal
+TAG: c2dres50-ce-cal
+
+
+  # NAME: dualstream
+  # NAME:c2dres50
+
+# MODEL:
+#   NAME:event_resnet50
+# LOSS:
+#   CLA_LOSS: crossentropy
+#   CAL: cal
+# TAG: c2dres50-ce-cal
