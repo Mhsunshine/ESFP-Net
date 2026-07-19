@@ -1,4 +1,4 @@
-### Event-guided Body Structure and Prototype Learning for Clothes-changing Person Re-identification
+### Event-inspired Structural Prior and Prototype Learning for Clothes-changing Person Re-identification
 
 #### Requirements
 - Python 3.10
